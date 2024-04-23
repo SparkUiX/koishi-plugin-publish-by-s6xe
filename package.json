@@ -1,0 +1,20 @@
+{
+  "name": "koishi-plugin-publish-by-s6xe",
+  "description": "这是一个由SparkUiX发布的插件，它可以让插件市场的所有插件看起来都像是他与上学大人爱的结晶❤️",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "4.17.4"
+  }
+}
